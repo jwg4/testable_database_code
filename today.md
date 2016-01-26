@@ -1,4 +1,4 @@
-# Injecting today
+# Injecting 'today'
 
 How do you develop code which relies on the current date (or time) to do something, and where results will be different on different days?
 This question is like a simpler version of the problems of writing code which talks to a database.
